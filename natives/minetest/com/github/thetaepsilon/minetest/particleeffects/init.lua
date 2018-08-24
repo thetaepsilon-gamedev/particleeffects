@@ -3,5 +3,6 @@ return modns.mk_parent_ns({
 	"fountain",
 	"tripwire",
 	"vector_indicator",
+	"point_indicator",
 })
 
